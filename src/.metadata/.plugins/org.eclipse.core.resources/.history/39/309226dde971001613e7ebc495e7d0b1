@@ -1,0 +1,12 @@
+
+public abstract class Operacion {
+	private int num1, num2;
+	public abstract int calcular();
+	public int getNum1() {
+		return num1;
+	}
+	public int getNum2() {
+		return num2;
+	}
+	
+}

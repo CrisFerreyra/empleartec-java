@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Scanner s= new Scanner (System.in);
+		Operacion op=new Suma (s.nextInt(),s.nextInt());
+		System.out.println("Escriba el numero que ")
+		
+
+	}
+
+}

@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Operacion op=new Suma (s.nextInt(),s.nextInt());
+		Scanner s= new Scanner (System.in);
+		num1=s.nextInt();
+		num2=s.nextInt();
+		
+
+	}
+
+}
